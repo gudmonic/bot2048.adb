@@ -1,0 +1,13 @@
+{
+    "board": {
+        "x": 136,
+        "y": 1008,
+        "w": 1173,
+        "h": 1162
+    },
+    "depth": 4,
+    "move_delay": 0.08,
+    "phone_width": 1440,
+    "phone_height": 3120,
+    "adb_serial": ""
+}
